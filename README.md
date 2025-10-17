@@ -2,8 +2,7 @@
 
 Welcome to **Rohil Nextgen Academy** – a hub for modern learning and technology!
 
-## 📚 Project Overview
-This repository contains multiple web and app development projects including:
+#   Courses Overview
 - AI & ML
 - Android Development
 - Cybersecurity
